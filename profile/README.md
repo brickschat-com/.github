@@ -12,7 +12,7 @@ Meet **Bricky**, your AI building companion. Turn an idea, a sketch or a photo i
 - **Build with your collection.** Tell Bricky which parts you have.
 - **Make it real.** Explore the build and follow the building instructions.
 
-BricksChat is a product of [Mereology Labs](https://mereologylabs.com), exploring how AI can build things from real parts.
+BricksChat is a project from [Mereology Labs](https://mereologylabs.com), exploring how AI can turn ideas into buildable assemblies of real parts.
 
 ---
 
